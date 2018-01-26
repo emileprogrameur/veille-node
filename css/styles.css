@@ -56,9 +56,17 @@ section p {
   height: 50%;
   border: 2px solid black;
 }
-img {
-  width: 200px;
-  height: 200px;
+#un {
+  background-image: url("../images/eddy_martin01.jpg");
+}
+#deux {
+  background-image: url("../images/eddy_martin02.jpg");
+}
+#trois {
+  background-image: url("../images/eddy_martin03.jpg");
+}
+#quatre {
+  background-image: url("../images/eddy_martin04.jpeg");
 }
 footer {
   display: flex;
