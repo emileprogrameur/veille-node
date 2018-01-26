@@ -1,0 +1,2 @@
+git add "nom du fichier" //indexer un seul fichier
+git add . //indexer l'ensemble des fichiers
